@@ -2,7 +2,7 @@
 # -------------------------------------------------------------------------
 #  DATE:  September 13, 2017
 #
-#  Problem Two: Conference Track Management
+#  Problem : Conference Track Management
 #
 #  You are planning a big programming conference and have received many proposals which
 #  have passed the initial screen process but you're having trouble fitting them into
